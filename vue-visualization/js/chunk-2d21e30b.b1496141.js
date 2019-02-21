@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21e30b"],{d504:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"rx-page"},[e._v("\n  index page\n")])},s=[],i={name:"Index"},c=i,d=t("2877"),u=Object(d["a"])(c,a,s,!1,null,"3f6ade90",null);u.options.__file="Index.vue";n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d21e30b.b1496141.js.map
